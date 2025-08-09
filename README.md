@@ -25,7 +25,7 @@
 
 ```bash
 # Clone your copy
-git clone https://github.com/<you>/ubusmooth.git
+git@github.com:Emad-Shamsaki/ubusmooth.git
 cd ubusmooth
 
 # Measure baseline performance (no tweaks yet)
@@ -47,7 +47,7 @@ cat bench/results.csv
 # Revert Changes
 sudo bash ubusmooth.sh --revert
 
-
+---
 ## To-Do
 
 - [ ] Add automatic graph generation for results.csv
