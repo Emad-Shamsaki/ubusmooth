@@ -47,3 +47,10 @@ cat bench/results.csv
 # Revert Changes
 sudo bash ubusmooth.sh --revert
 
+
+## To-Do
+
+- [ ] Add automatic graph generation for results.csv
+- [ ] Improve memory throughput parsing in bench.sh
+- [x] Write README.md
+- [ ] Test on Ubuntu 24.04 LTS
