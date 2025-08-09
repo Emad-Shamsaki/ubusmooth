@@ -42,3 +42,8 @@ sudo reboot
 
 # View results in bench/results.csv
 cat bench/results.csv
+
+
+# Revert Changes
+sudo bash ubusmooth.sh --revert
+
